@@ -30,3 +30,7 @@ os: For managing file paths and operations.
 Place your CSV file in the specified directory.
 Update the input_file variable in the script with the correct file path.
 Run the script to generate a PDF report in the current working directory.
+
+#### OUTPUT ####
+
+[eduction_report.pdf](https://github.com/user-attachments/files/19064366/eduction_report.pdf)
