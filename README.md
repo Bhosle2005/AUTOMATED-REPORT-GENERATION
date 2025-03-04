@@ -4,7 +4,7 @@
 
 * NAME * : PRATIKSHA BHOSLE
 
-* INTERN ID * :CT6WQJL
+* INTERN ID * : CT6WQJL
 
 * DOMAIN * : PYTHON PROGRAMMING
 
@@ -22,9 +22,9 @@ Generates professional PDF reports with the analysis results.
 Easy-to-use structure for adaptability and customization.
 
 ## Libraries Used ##
-pandas: For data manipulation and analysis.
-FPDF: For creating PDF reports.
-os: For managing file paths and operations.
+1.pandas : For data manipulation and analysis.
+2.FPDF : For creating PDF reports.
+3.os : For managing file paths and operations.
 
 ## How to Use ##
 Place your CSV file in the specified directory.
